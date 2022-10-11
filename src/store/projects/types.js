@@ -1,0 +1,3 @@
+export const CREATE_PROJECT = 'CREATE_PROJECT';
+export const REMOVE_PROJECT = 'REMOVE_PROJECT';
+export const EDIT_PROJECT = 'EDIT_PROJECT';
